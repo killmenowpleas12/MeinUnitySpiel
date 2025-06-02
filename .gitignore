@@ -7,9 +7,10 @@
 [Ll]ogs/
 MemoryCaptures/
 
+# Optional: Editor-spezifisch (entferne bei Bedarf)
 
 
-#Visual Studio,
+# Visual Studio
 .vscode/
 *.csproj
 *.unityproj
@@ -21,6 +22,8 @@ MemoryCaptures/
 *.booproj
 *.svd
 
-#OS-spezifisch,
+
+
+# OS-spezifisch
 .DS_Store
 Thumbs.db
