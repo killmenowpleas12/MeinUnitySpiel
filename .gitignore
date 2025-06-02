@@ -1,3 +1,4 @@
+#Unity Build / Temp Files,
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,9 +6,10 @@
 [Bb]uilds/
 [Ll]ogs/
 MemoryCaptures/
-UserSettings/
 
-Visual Studio,
+
+
+#Visual Studio,
 .vscode/
 *.csproj
 *.unityproj
@@ -19,6 +21,6 @@ Visual Studio,
 *.booproj
 *.svd
 
-OS-Spezifisch,
+#OS-spezifisch,
 .DS_Store
 Thumbs.db
